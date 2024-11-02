@@ -1,7 +1,7 @@
 # Data Scientist Enthusiast
 
 ## Education
-Statistics, Yogyakarta State University
+- B.S.,Statistics | Yogyakarta State University (2021-2025)
 
 ## Work Experience
 Medical Records Analyst at Rumah Sakit Pratama Kota Yogyakarta (Internship)
@@ -23,7 +23,7 @@ Image Classification Model for Personal Sensitive Content Detection | Turnamen S
 
 ## Honors & Awards
 Finalist (Top 12) - Big Data Challenge (BDC) Satria Data 2024
-- Issued by Balai Pengembangan Talenta Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia - Aug 2024
+- Issued by Balai Pengembangan Talenta Indonesia - Aug 2024
 
 Finalist (Top 5) - Turnamen Sains Data Nasional (TSDN) 2023
 - Issued by Data Academy & Asosiasi Data Science dan AI Indonesia - Dec 2023
