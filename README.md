@@ -1,8 +1,8 @@
 # Data Scientist Enthusiast
 
 ### Technical Skills
-**- Programming:** Python, R
-**- Libraries & Frameworks:** TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV
+- Programming: Python, R
+- Libraries & Frameworks: TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV
 
 #### 
 
