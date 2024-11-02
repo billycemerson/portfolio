@@ -1,4 +1,4 @@
-# Data Scientist Eunthiast
+# Data Scientist Enthusiast
 
 ## Education
 Statistics, Yogyakarta State University
@@ -21,9 +21,9 @@ Image Classification Model for Personal Sensitive Content Detection | Turnamen S
 - Developed a Convolutional Neural Network (CNN) model to classify images as either sensitive (e.g., personal IDs like KTP, SIM, KK) or non-sensitive (e.g., human activities, food, animals), achieving high accuracy. 
 - This model aids in content moderation by detecting and flagging sensitive personal data on digital platforms.
 
-## Honnor and Awards
+## Honors & Awards
 Finalist (Top 12) - Big Data Challenge (BDC) Satria Data 2024
-- Issued by Balai Pengembangan Talenta Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia · Aug 2024
+- Issued by Balai Pengembangan Talenta Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia - Aug 2024
 
 Finalist (Top 5) - Turnamen Sains Data Nasional (TSDN) 2023
-- Issued by Data Academy & Asosiasi Data Science dan AI Indonesia · Dec 2023
+- Issued by Data Academy & Asosiasi Data Science dan AI Indonesia - Dec 2023
