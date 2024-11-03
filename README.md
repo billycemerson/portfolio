@@ -5,7 +5,7 @@
 - Libraries & Frameworks: TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV
 
 ## Education
-- B.S.,Statistics|Yogyakarta State University (2021-2025)
+- B.S.,Statistics | Yogyakarta State University (2021-2025)
 
 ## Work Experience
 Medical Records Analyst at Rumah Sakit Pratama Kota Yogyakarta (Internship)
